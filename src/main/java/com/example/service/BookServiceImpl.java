@@ -39,12 +39,12 @@ public class BookServiceImpl implements BookService {
 
     @Override
     public List<Books> queryBook(int number) {
-        return bookMapper.queryBook(number * 6);
+        return bookMapper.queryBook(number * 5);
     }
 
     @Override
     public List<Books> queryBookByName(String bookName, int number) {
-        return bookMapper.queryBookByName(bookName, number * 6);
+        return bookMapper.queryBookByName(bookName, number * 5);
     }
 
     @Override

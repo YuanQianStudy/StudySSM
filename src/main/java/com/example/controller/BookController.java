@@ -36,9 +36,9 @@ public class BookController {
         //获取总页数
         int pageTotal;
         if (bookName == null) {
-            pageTotal = (bookService.queryBookTotal() - 1) / 6;
+            pageTotal = (bookService.queryBookTotal() - 1) / 5;
         } else {
-            pageTotal = (bookService.queryBookTotal(bookName) - 1) / 6;
+            pageTotal = (bookService.queryBookTotal(bookName) - 1) / 5;
         }
         //判断前端传来的页数是否符合规则
         if (number < 0) {
