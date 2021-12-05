@@ -21,3 +21,6 @@ mysql 8.0.26
 druid 1.2.8
 
 **运行截图：**
+![Image text]( https://github.com/YuanQianStudy/StudySSM/blob/master/images/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
+![Image text]( https://github.com/YuanQianStudy/StudySSM/blob/master/images/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8%E7%95%8C%E9%9D%A2.jpg)
+![Image text]( https://github.com/YuanQianStudy/StudySSM/blob/master/images/%E4%BF%AE%E6%94%B9%E6%88%96%E6%B7%BB%E5%8A%A0%E5%9B%BE%E4%B9%A6%E7%95%8C%E9%9D%A2.jpg)
